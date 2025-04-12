@@ -2,6 +2,7 @@
 
 A lightweight trading monitor dashboard built in Python that tracks mock or live stock positions and orders. It’s designed to fetch market data and simulate a basic trading system interface — perfect for backtesting, strategy visualization, and prototyping real-time trading systems.
 
+LIVE URL : https://trademonitor-safpfmg3eftf3vqfv7htzg.streamlit.app/
 ---
 
 ## 🔧 Features
